@@ -1,1 +1,6 @@
-# nearly_unsupervised_hashcode_representations
+Documentation instructions will be released soon. 
+
+Contact me at sahil.garg.cs@gmail.com
+
+
+
